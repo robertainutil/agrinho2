@@ -1,0 +1,1451 @@
+.fundo-icon {
+  position: absolute;
+  top: -323.8px;
+  left: 884.8px;
+  border-radius: 748.8px;
+  width: 1497.6px;
+  height: 1497.6px;
+  object-fit: cover;
+}
+.bem-vindo-ao {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  line-height: 29px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 217.4px;
+  height: 29px;
+}
+.fert {
+  margin: 0;
+}
+.fert-experts-txt-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.fert-experts,
+.titulo {
+  position: absolute;
+  height: 170px;
+}
+.fert-experts {
+  top: -0.5px;
+  left: 0;
+  line-height: 85px;
+  text-transform: uppercase;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  width: 375.1px;
+}
+.titulo {
+  width: calc(100% - 30px);
+  top: 84px;
+  right: 15px;
+  left: 15px;
+  font-size: 70px;
+}
+.div,
+.saiba-como-escolher {
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.saiba-como-escolher {
+  position: absolute;
+  top: 309.5px;
+  left: 15px;
+  font-size: 18px;
+  line-height: 31px;
+  width: 501px;
+  height: 27px;
+}
+.div {
+  top: -2px;
+  left: calc(50% - 23px);
+  font-size: var(--font-size-13xl);
+  line-height: 46px;
+  text-transform: uppercase;
+  font-family: var(--font-montserrat);
+  color: var(--color-black);
+  text-align: center;
+  justify-content: center;
+  width: 46.3px;
+  height: 46px;
+}
+.div,
+.seta,
+.textos {
+  position: absolute;
+}
+.seta {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-white);
+  top: 425.5px;
+  left: 176px;
+  box-shadow: 7px 8px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 200px;
+  width: 46px;
+  height: 46px;
+}
+.textos {
+  width: calc(100% - 1420px);
+  top: calc(50% - 222px);
+  right: 1032px;
+  left: 388px;
+  height: 512px;
+}
+.foto-comida-1 {
+  position: absolute;
+  top: calc(50% - 339.5px);
+  left: 958.4px;
+  border-radius: 335.5px;
+  width: 671px;
+  height: 671px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.contedo {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -12px;
+  bottom: 0;
+  left: 12px;
+}
+.corpo,
+.sesso-casa {
+  position: absolute;
+  overflow: hidden;
+}
+.sesso-casa {
+  top: 0;
+  left: calc(50% - 960px);
+  background-color: #71b85f;
+  width: 1920px;
+  height: 831px;
+}
+.corpo {
+  width: calc(100% + 480px);
+  top: -8.5px;
+  right: -240px;
+  left: -240px;
+  height: 832px;
+}
+.corpo-cabealho-sesses {
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-white);
+  height: 823px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 20px;
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
+.casa1,
+.projeto-agrinho1 {
+  display: flex;
+  align-items: center;
+}
+.projeto-agrinho1 {
+  position: absolute;
+  width: 100%;
+  top: 189px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-white);
+  height: 824px;
+  overflow-y: auto;
+  flex-direction: column;
+  justify-content: center;
+}
+.casa1 {
+  width: 48.3px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.5px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-family: var(--font-montserrat);
+  color: var(--color-white);
+  text-align: left;
+  height: 20px;
+  flex-shrink: 0;
+}
+.casa {
+  cursor: pointer;
+  border: 0;
+  padding: 0 16.7px;
+  background-color: #466901;
+  position: absolute;
+  width: calc(100% - 712px);
+  top: 0;
+  right: 792px;
+  left: -80px;
+  height: 56px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.icon-seta,
+.jardim-horta {
+  position: relative;
+  height: 20px;
+  flex-shrink: 0;
+}
+.jardim-horta {
+  width: 137.5px;
+  letter-spacing: 0.5px;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+.icon-seta {
+  width: 10.5px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.menu-compras {
+  position: absolute;
+  width: calc(100% - 618px);
+  top: 10px;
+  right: 610px;
+  left: 8px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 6.8px 18px 20px;
+  box-sizing: border-box;
+  gap: 7px;
+  cursor: pointer;
+}
+.casa-menu-compras {
+  width: 800px;
+  position: relative;
+  height: 1px;
+}
+.tpicos {
+  position: absolute;
+  width: calc(100% + 480px);
+  top: 129px;
+  right: -241px;
+  left: -239px;
+  background-color: var(--color-gray-100);
+  height: 56px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.quadrado-pesquisar-icon,
+.retngulo {
+  position: absolute;
+  top: 26px;
+  height: 45px;
+}
+.retngulo {
+  border: 1px solid var(--color-gainsboro-100);
+  outline: 0;
+  font-family: var(--font-open-sans);
+  font-size: var(--font-size-sm);
+  background-color: var(--color-white);
+  width: calc(100% - 1005px);
+  right: 110px;
+  left: 895px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-mini);
+  color: var(--color-black);
+}
+.quadrado-pesquisar-icon {
+  right: 109px;
+  width: 45px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.logo-icon {
+  position: absolute;
+  top: 18px;
+  left: 98px;
+  width: 41px;
+  height: 53px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.inf-cabealho {
+  width: 1280px;
+  position: relative;
+  height: 106px;
+}
+.cabealho,
+.corpo1 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.cabealho {
+  top: -35px;
+  height: 166px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-2xs) 0;
+  box-sizing: border-box;
+}
+.corpo1 {
+  top: 5px;
+  height: 1009px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
+.logo-icon1 {
+  position: absolute;
+  top: -4px;
+  left: 17px;
+  width: 41px;
+  height: 53px;
+  overflow: hidden;
+  object-fit: cover;
+  cursor: pointer;
+}
+.copyright-itsmejota-all {
+  position: absolute;
+  top: 104px;
+  left: 15px;
+  line-height: 23.63px;
+  display: flex;
+  align-items: center;
+  width: 297px;
+  height: 24px;
+}
+.copyrigt {
+  position: absolute;
+  height: calc(100% - 195.4px);
+  width: calc(100% - 1620px);
+  top: 90px;
+  right: 1201px;
+  bottom: 105.4px;
+  left: 419px;
+}
+.entre-em-contato {
+  width: 172px;
+  position: relative;
+  line-height: 23.63px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  height: 24px;
+  flex-shrink: 0;
+}
+.nmero-de-telefone,
+.telefone1 {
+  position: relative;
+  line-height: 27px;
+  flex-shrink: 0;
+}
+.telefone1 {
+  width: 85px;
+  display: flex;
+  align-items: center;
+  height: 27px;
+}
+.nmero-de-telefone {
+  width: 161px;
+  color: var(--color-black);
+  margin-left: -7px;
+}
+.link-e-mail,
+.mande-um-email,
+.nmero-de-telefone,
+.telefone {
+  display: flex;
+  align-items: center;
+  height: 27px;
+}
+.telefone {
+  width: 270px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs-3);
+  box-sizing: border-box;
+}
+.link-e-mail,
+.mande-um-email {
+  width: 175px;
+  position: relative;
+  line-height: 27px;
+  flex-shrink: 0;
+}
+.link-e-mail {
+  width: 239px;
+  text-decoration: underline;
+  color: var(--color-black);
+  margin-left: -28px;
+}
+.e-mail-pessoal,
+.telefone-e-mail {
+  width: 270px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.e-mail-pessoal {
+  height: 27px;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs-3);
+  box-sizing: border-box;
+}
+.telefone-e-mail {
+  flex-direction: column;
+}
+.instagram-icon,
+.pinterest-icon,
+.twitter-icon {
+  position: absolute;
+  top: 6.9px;
+  right: 91.5px;
+  width: 23px;
+  height: 29px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.instagram-icon,
+.pinterest-icon {
+  right: 58.3px;
+}
+.pinterest-icon {
+  right: 26.7px;
+}
+.redes-sociais {
+  width: 139px;
+  position: relative;
+  height: 34px;
+}
+.list {
+  width: 270px;
+  height: 205px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0;
+  box-sizing: border-box;
+  gap: 58px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.grupo,
+.h1,
+.list {
+  display: flex;
+}
+.grupo {
+  position: absolute;
+  height: calc(100% - 185.4px);
+  width: calc(100% - 1620px);
+  top: 90px;
+  right: 792.3px;
+  bottom: 95.4px;
+  left: 827.7px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) var(--padding-mini) var(--padding-6xs) 15.3px;
+  box-sizing: border-box;
+  gap: 27px;
+  color: var(--color-black);
+}
+.h1 {
+  margin: 0;
+  width: 28.6px;
+  position: relative;
+  font-size: inherit;
+  line-height: 46px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: inherit;
+  align-items: center;
+  justify-content: center;
+  height: 25.4px;
+  flex-shrink: 0;
+  transform: rotate(-179deg);
+}
+.boto-voltar-pg-inicial,
+.footer {
+  position: absolute;
+  box-sizing: border-box;
+}
+.boto-voltar-pg-inicial {
+  top: 97px;
+  left: 1399px;
+  border-radius: 0 0 var(--br-10xs) var(--br-10xs);
+  background-color: #2d394b;
+  border-right: 1px solid var(--color-darkgray-100);
+  border-bottom: 1px solid var(--color-darkgray-100);
+  border-left: 1px solid var(--color-darkgray-100);
+  width: 51px;
+  height: 44px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 14.3px var(--padding-2xs);
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: #99a6b9;
+}
+.footer {
+  top: 2579px;
+  left: calc(50% - 965px);
+  background-color: #f9f9f9;
+  border-top: 1px solid #dbdbdb;
+  width: 2036px;
+  height: 456px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: rgba(0, 0, 0, 0.5);
+  font-family: var(--font-montserrat);
+}
+.cabealho-tpicos-sesses {
+  position: absolute;
+  height: calc(100% - 68px);
+  width: 100%;
+  top: 5px;
+  right: 0;
+  bottom: 63px;
+  left: 0;
+  background-color: var(--color-white);
+}
+.jardim,
+.linha {
+  position: absolute;
+}
+.linha {
+  width: 14.07%;
+  right: 47.9%;
+  bottom: -3px;
+  left: 38.02%;
+  background-color: var(--color-firebrick);
+  height: 2px;
+}
+.jardim {
+  top: calc(50% - 26.9px);
+  left: calc(50% - 177.65px);
+  line-height: 42.86px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 355.6px;
+  height: 42.9px;
+}
+.linha-2 {
+  position: absolute;
+  width: 14.07%;
+  right: 38.05%;
+  bottom: 1px;
+  left: 47.88%;
+  background-color: var(--color-firebrick);
+  height: 2px;
+}
+.subtitulo,
+.subtitulo-2 {
+  position: absolute;
+  top: calc(50% - 402px);
+  left: calc(50% - 175px);
+  width: 355.3px;
+  height: 53.8px;
+}
+.subtitulo-2 {
+  top: calc(50% + 308px);
+  left: calc(50% - 183px);
+}
+.adubo-fertilizante-orgnico {
+  position: absolute;
+  top: 357px;
+  left: calc(50% - 100px);
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  color: var(--color-gray-100);
+  white-space: pre-wrap;
+  width: 200px;
+  height: 20px;
+}
+.adubo-fertilizante-orgnico,
+.compre-aqui,
+.r1972 {
+  display: flex;
+  font-family: var(--font-montserrat);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.r1972 {
+  position: absolute;
+  top: 392px;
+  left: calc(50% - 40px);
+  font-size: var(--font-size-base);
+  line-height: 22.86px;
+  font-weight: 600;
+  color: var(--color-crimson);
+  width: 80px;
+  height: 22px;
+}
+.compre-aqui {
+  width: 109px;
+  position: relative;
+  font-size: var(--font-size-smi);
+  letter-spacing: 0.5px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  height: 16px;
+  flex-shrink: 0;
+}
+.retngulo1,
+.texto {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+.texto {
+  border: 1px solid var(--color-gray-100);
+  padding: var(--padding-smi-6) 14px;
+  background-color: var(--color-gray-100);
+  width: 137.9px;
+  box-sizing: border-box;
+  height: 42px;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.retngulo1 {
+  position: absolute;
+  width: 100%;
+  top: 424.4px;
+  right: 0;
+  left: 0;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.f2-removebg-preview-1-icon {
+  position: absolute;
+  top: 14px;
+  left: -34px;
+  width: 352px;
+  height: 311px;
+  object-fit: cover;
+}
+.img-4 {
+  width: 284px;
+  position: relative;
+  background-color: transparent;
+  height: 324.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.img-4-wrapper {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  height: 332px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0;
+}
+.item-1 {
+  position: absolute;
+  width: calc(100% - 972px);
+  top: 0;
+  right: 965px;
+  left: 7px;
+  height: 462.4px;
+}
+.fertilizante-para-hortas {
+  position: absolute;
+  top: 356.6px;
+  left: calc(50% - 103px);
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  color: var(--color-gray-100);
+  width: 205.6px;
+  height: 20px;
+}
+.compre-aqui1,
+.fertilizante-para-hortas,
+.r1516 {
+  display: flex;
+  font-family: var(--font-montserrat);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.r1516 {
+  position: absolute;
+  top: 392px;
+  left: calc(50% - 41px);
+  font-size: var(--font-size-base);
+  line-height: 22.86px;
+  font-weight: 600;
+  color: var(--color-crimson);
+  width: 81px;
+  height: 22px;
+}
+.compre-aqui1 {
+  width: 105px;
+  position: relative;
+  font-size: var(--font-size-smi);
+  letter-spacing: 0.5px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  height: 16px;
+  flex-shrink: 0;
+}
+.retngulo2,
+.texto1 {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+.texto1 {
+  border: 1px solid var(--color-gray-100);
+  padding: var(--padding-smi-6) var(--padding-base);
+  background-color: var(--color-gray-100);
+  width: 137.9px;
+  box-sizing: border-box;
+  height: 42px;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.retngulo2 {
+  position: absolute;
+  width: 100%;
+  top: 423.4px;
+  right: 0;
+  left: 0;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.img-3-icon {
+  width: 284px;
+  position: relative;
+  height: 324.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.item-2 {
+  position: absolute;
+  width: calc(100% - 972px);
+  top: 0;
+  right: 644px;
+  left: 328px;
+  height: 462.4px;
+}
+.fertilizante-adubo-misto {
+  position: absolute;
+  top: 357px;
+  left: calc(50% - 97px);
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  color: var(--color-gray-100);
+  width: 194px;
+  height: 20px;
+}
+.compre-aqui2,
+.fertilizante-adubo-misto,
+.r2390 {
+  display: flex;
+  font-family: var(--font-montserrat);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.r2390 {
+  position: absolute;
+  top: 390.6px;
+  left: calc(50% - 32.5px);
+  font-size: var(--font-size-base);
+  line-height: 22.86px;
+  font-weight: 600;
+  color: var(--color-crimson);
+  width: 65.3px;
+  height: 22.9px;
+}
+.compre-aqui2 {
+  width: 119px;
+  position: relative;
+  font-size: var(--font-size-smi);
+  letter-spacing: 0.5px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  height: 16px;
+  flex-shrink: 0;
+}
+.texto2 {
+  cursor: pointer;
+  border: 1px solid var(--color-gray-100);
+  padding: var(--padding-smi-6) var(--padding-4xs);
+  background-color: var(--color-gray-100);
+  width: 137.9px;
+  box-sizing: border-box;
+  height: 42px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.item-3 {
+  position: absolute;
+  width: calc(100% - 972px);
+  top: 0;
+  right: 326px;
+  left: 646px;
+  height: 462.4px;
+}
+.fertilizante-adubo-forth {
+  position: absolute;
+  top: 356.6px;
+  left: calc(50% - 110.2px);
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-gray-100);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 220.8px;
+  height: 20px;
+}
+.item-4,
+.r6990 {
+  position: absolute;
+}
+.r6990 {
+  top: 390px;
+  left: calc(50% - 41px);
+  font-size: var(--font-size-base);
+  line-height: 22.86px;
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  color: var(--color-crimson);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 82px;
+  height: 22px;
+}
+.item-4 {
+  width: calc(100% - 972px);
+  top: 0;
+  right: 8px;
+  left: 964px;
+  height: 462.4px;
+}
+.fertilizante-lquido-gota {
+  position: absolute;
+  top: 357px;
+  left: calc(50% - 104px);
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  color: var(--color-gray-100);
+  width: 211px;
+  height: 20px;
+}
+.compre-aqui4,
+.fertilizante-lquido-gota,
+.r2765 {
+  display: flex;
+  font-family: var(--font-montserrat);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.r2765 {
+  position: absolute;
+  top: 394px;
+  left: calc(50% - 32px);
+  font-size: var(--font-size-base);
+  line-height: 22.86px;
+  font-weight: 600;
+  color: var(--color-crimson);
+  width: 77px;
+  height: 22px;
+}
+.compre-aqui4 {
+  width: 110px;
+  position: relative;
+  font-size: var(--font-size-smi);
+  letter-spacing: 0.5px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  height: 16px;
+  flex-shrink: 0;
+}
+.retngulo5,
+.texto4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+.texto4 {
+  width: 137.9px;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  height: 42px;
+  justify-content: flex-start;
+  padding: var(--padding-smi-6) 0;
+}
+.retngulo5 {
+  position: absolute;
+  width: 100%;
+  top: 422.4px;
+  right: 0;
+  left: 0;
+  overflow: hidden;
+  justify-content: center;
+}
+.c5bf86f8c7-removebg-preview-1-icon {
+  width: 250px;
+  position: relative;
+  height: 303px;
+  object-fit: cover;
+}
+.img-1 {
+  width: 288px;
+  background-color: var(--color-rosybrown);
+  height: 324.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-6xs-6) var(--padding-base);
+  box-sizing: border-box;
+}
+.group1,
+.item-5 {
+  position: absolute;
+}
+.group1 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  height: 325px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0;
+}
+.item-5 {
+  width: calc(100% - 968px);
+  top: 7px;
+  right: -316px;
+  left: 1284px;
+  height: 462.4px;
+}
+.fertilizante-hidrossolvel-hor,
+.r2557 {
+  position: absolute;
+  top: 357px;
+  left: calc(50% - 110px);
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-gray-100);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 228px;
+  height: 20px;
+}
+.r2557 {
+  top: 393.6px;
+  left: calc(50% - 32px);
+  font-size: var(--font-size-base);
+  line-height: 22.86px;
+  font-weight: 600;
+  color: var(--color-crimson);
+  width: 64.2px;
+  height: 22.9px;
+}
+.c5bf86f8c7-removebg-preview-1-icon1 {
+  position: absolute;
+  top: 23px;
+  left: calc(50% - 146px);
+  width: 291px;
+  height: 300px;
+  object-fit: cover;
+}
+.img-11 {
+  width: 288px;
+  position: relative;
+  background-color: var(--color-rosybrown);
+  height: 324.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.group2,
+.item-6 {
+  position: absolute;
+}
+.group2 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  height: 330px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0;
+}
+.item-6 {
+  width: calc(100% - 968px);
+  top: 7px;
+  right: -632px;
+  left: 1600px;
+  height: 462.4px;
+}
+.fertilizante-orgnico-enraizad,
+.r3860 {
+  position: absolute;
+  top: 357px;
+  left: calc(50% - 120px);
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-gray-100);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 240px;
+  height: 20px;
+}
+.r3860 {
+  top: 394px;
+  left: calc(50% - 36px);
+  font-size: var(--font-size-base);
+  line-height: 22.86px;
+  font-weight: 600;
+  color: var(--color-crimson);
+  width: 72px;
+  height: 22px;
+}
+.c5bf86f8c7-removebg-preview-1-icon2 {
+  width: 120px;
+  position: relative;
+  height: 285px;
+  object-fit: cover;
+}
+.group3,
+.img-12 {
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.img-12 {
+  width: 288px;
+  background-color: var(--color-rosybrown);
+  height: 324.6px;
+  flex-shrink: 0;
+  justify-content: flex-end;
+  padding: 7.6px 0;
+}
+.group3 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border: 1px solid var(--color-gainsboro-100);
+  height: 324px;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0;
+}
+.grupo-2,
+.item-7 {
+  position: absolute;
+  height: 462.4px;
+}
+.item-7 {
+  width: calc(100% - 968px);
+  top: 7px;
+  right: -951px;
+  left: 1919px;
+}
+.grupo-2 {
+  margin: 0;
+  top: 1957px;
+  left: calc(50% - 635px);
+  width: 1270px;
+  overflow-x: auto;
+}
+.fertilizante-jardim-frtil {
+  position: absolute;
+  top: 356.6px;
+  left: calc(50% - 100.8px);
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  color: var(--color-gray-100);
+  width: 202px;
+  height: 20px;
+}
+.compre-aqui7,
+.fertilizante-jardim-frtil,
+.r2861 {
+  display: flex;
+  font-family: var(--font-montserrat);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.r2861 {
+  position: absolute;
+  top: 393px;
+  left: calc(50% - 34px);
+  font-size: var(--font-size-base);
+  line-height: 22.86px;
+  font-weight: 600;
+  color: var(--color-crimson);
+  width: 67px;
+  height: 22px;
+}
+.compre-aqui7 {
+  width: 107px;
+  position: relative;
+  font-size: var(--font-size-smi);
+  letter-spacing: 0.5px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  height: 16px;
+  flex-shrink: 0;
+}
+.texto7 {
+  width: 137.9px;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  height: 42px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-smi-6) var(--padding-mini);
+  cursor: pointer;
+}
+.fertilizante-vithal-jardim-fer-icon {
+  width: 274px;
+  position: relative;
+  height: 318px;
+  object-fit: cover;
+}
+.img-41 {
+  width: 288px;
+  background-color: transparent;
+  height: 324.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 2px;
+  box-sizing: border-box;
+}
+.item-11 {
+  position: absolute;
+  width: calc(100% - 972px);
+  top: 0;
+  right: 962px;
+  left: 10px;
+  height: 462.4px;
+}
+.fertilizante-vithal-jardim {
+  position: absolute;
+  top: 356.6px;
+  left: calc(50% - 102.6px);
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-gray-100);
+  text-align: center;
+  justify-content: center;
+  width: 205.6px;
+  height: 20px;
+}
+.fertilizante-vithal-jardim,
+.r3513,
+.texto8 {
+  display: flex;
+  align-items: center;
+}
+.r3513 {
+  position: absolute;
+  top: 393.6px;
+  left: calc(50% - 31px);
+  font-size: var(--font-size-base);
+  line-height: 22.86px;
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  color: var(--color-crimson);
+  text-align: center;
+  justify-content: center;
+  width: 61.5px;
+  height: 22.9px;
+}
+.texto8 {
+  cursor: pointer;
+  border: 1px solid var(--color-gray-100);
+  padding: var(--padding-smi-6) 0;
+  background-color: var(--color-gray-100);
+  width: 137.9px;
+  box-sizing: border-box;
+  height: 42px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.fertilizante-vithal-jardim-fer-icon1 {
+  position: absolute;
+  top: 21px;
+  left: -1px;
+  width: 287px;
+  height: 281px;
+  object-fit: cover;
+}
+.img-3 {
+  width: 288px;
+  position: relative;
+  background-color: transparent;
+  height: 324.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.adubo-fertilizante-forth {
+  position: absolute;
+  top: 357px;
+  left: calc(50% - 91px);
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  color: var(--color-gray-100);
+  width: 182px;
+  height: 20px;
+}
+.adubo-fertilizante-forth,
+.compre-aqui9,
+.r1990 {
+  display: flex;
+  font-family: var(--font-montserrat);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.r1990 {
+  position: absolute;
+  top: 393.6px;
+  left: calc(50% - 32.5px);
+  font-size: var(--font-size-base);
+  line-height: 22.86px;
+  font-weight: 600;
+  color: var(--color-crimson);
+  width: 65.3px;
+  height: 22.9px;
+}
+.compre-aqui9 {
+  width: 113px;
+  position: relative;
+  font-size: var(--font-size-smi);
+  letter-spacing: 0.5px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  height: 16px;
+  flex-shrink: 0;
+}
+.texto9 {
+  cursor: pointer;
+  border: 1px solid var(--color-gray-100);
+  padding: var(--padding-smi-6) var(--padding-xs);
+  background-color: var(--color-gray-100);
+  width: 137.9px;
+  box-sizing: border-box;
+  height: 42px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.img-2-icon1 {
+  width: 288px;
+  position: relative;
+  height: 324.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.group5,
+.retngulo12 {
+  position: absolute;
+  width: 100%;
+  top: 422.4px;
+  right: 0;
+  left: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.group5 {
+  top: 0;
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  height: 343.6px;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0;
+}
+.item-51,
+.item-61 {
+  position: absolute;
+  width: calc(100% - 972px);
+  top: -2px;
+  right: -308px;
+  left: 1280px;
+  height: 462.4px;
+}
+.item-61 {
+  right: -624px;
+  left: 1596px;
+}
+.c5bf86f8c7-removebg-preview-1-icon5 {
+  width: 128px;
+  position: relative;
+  height: 303px;
+  object-fit: cover;
+}
+.img-15 {
+  width: 288px;
+  background-color: var(--color-rosybrown);
+  height: 324.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: var(--padding-6xs-6) 73px;
+  box-sizing: border-box;
+}
+.item-71 {
+  position: absolute;
+  width: calc(100% - 972px);
+  top: -2px;
+  right: -943px;
+  left: 1915px;
+  height: 462.4px;
+}
+.grupo1 {
+  margin: 0;
+  position: absolute;
+  top: 1245px;
+  left: calc(50% - 635px);
+  width: 1270px;
+  height: 462px;
+  overflow-x: auto;
+}
+.projeto-agrinho {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3038px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-montserrat);
+}
+@media screen and (max-width: 1200px) {
+  .grupo-2,
+  .grupo1 {
+    opacity: 0;
+  }
+  .grupo-2.animate,
+  .grupo1.animate {
+    animation: 1s ease 0s 1 normal forwards fade-in;
+  }
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}
